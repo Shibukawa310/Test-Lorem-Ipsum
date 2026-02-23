@@ -2,13 +2,13 @@
   <img src="https://placehold.co/200x100?text=LOGO+ENTREPRISE" alt="Logo de l'entreprise" width="250"/>
   
   <h1>Portail des Standards</h1>
-  <p><em>La source unique de vérité pour toutes nos procédures et standards.</em></p>
+  <p><em>A unique way of working is waiting for you just here:.</em></p>
 </div>
 
 ---
 
-### 🏷️ Accès rapide par Mots-Clés
-**[ 🔴 Sécurité ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🔵 Ressources Humaines ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟢 Production ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟠 Qualité ]**
+### 🏷️ Quick access by keyword
+**[ 🔴 Security ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🔵 API ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟢 Quality ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟠 Process ]**
 
 ---
 
@@ -16,4 +16,4 @@
 
 | 🆕 Récemment ajoutés (Officiel) | ⏳ Prochainement (En rédaction) |
 | :--- | :--- |
-| - **[Standard Télétravail v2.1](../Standards_RH/teletravail.md)** <br> - **[Procédure d'évacuation](../Standards_Securite/evacuation.md)** <br> - **[Montage Pièce A](../Standards_Production/montage.md)** | - Standard d'intégration des nouveaux <br> - Utilisation de la nouvelle machine X <br> - Mise à jour Qualité ISO |
+| - **[API definition](../Standards_Process/ API definition.md)** <br> - **[Non conformity](../Standards_Securite/Non conformity.md)** <br> - **[Process ALpha](../Standards_Process/New Orga.md)** | - Data exchange baseline <br> - Avoid the non quality X <br> - RASCI  |
