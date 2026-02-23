@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:  # <--- AJOUTEZ CETTE LIGNE (C'est le bouton manuel)
 permissions:
   contents: write
 jobs:
