@@ -14,8 +14,7 @@ theme:
     - search.highlight
 
 markdown_extensions:
-  - admonition # Pour faire des blocs "Note" ou "Attention"
-  - details
+  - admonition
+  - pymdownx.details
   - attr_list
-  - md_in_html # Très important pour vos <u>soulignés</u>
-  - mermaid2 # Si vous voulez faire des diagrammes
+  - md_in_html
