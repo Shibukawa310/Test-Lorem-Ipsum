@@ -1,5 +1,6 @@
 site_name: Librairie des Standards
 site_description: Portail officiel des procédures
+site_url: https://shibukawa310.github.io/Test-Lorem-Ipsum/
 
 theme:
   name: material
