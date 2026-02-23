@@ -1,0 +1,21 @@
+site_name: Librairie des Standards
+site_description: Portail officiel des procédures
+
+theme:
+  name: material
+  language: fr # Pour avoir les boutons "Précédent/Suivant" et la recherche en français
+  palette:
+    primary: indigo # Vous pouvez choisir 'blue', 'red', 'teal', etc.
+    accent: indigo
+  features:
+    - navigation.sections
+    - navigation.top # Bouton pour remonter en haut de page
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition # Pour faire des blocs "Note" ou "Attention"
+  - details
+  - attr_list
+  - md_in_html # Très important pour vos <u>soulignés</u>
+  - mermaid2 # Si vous voulez faire des diagrammes
