@@ -36,20 +36,20 @@ Rice is a permanent host to a considerable microflora; most of these microorgani
 Storage losses have been estimated as being an average of 5 %, and as much as 30 %, especially in regions with climates favourable to the rapid development of agents of deterioration, such as tropical climates. The magnitude of these figures highlights the need to promote a rapid improvement in techniques of conservation worldwide.
 
 
-## SCOPE
-### General Scope
+## 1. SCOPE
+### 1.1 General Scope
 >This section is normative
 
 This document specifies minimum requirements and test methods for rice (Oryza sativa L.). It is applicable to husked rice, husked parboiled rice, milled rice and milled parboiled rice, suitable for human consumption, directly or after reconditioning. It is not applicable to cooked rice product.
 
-### Conformance and Notations
+### 1.2 Conformance and Notations
 >This section is normative
 
 If sections are marked as non-normative, all authoring guidelines, diagrams, examples, and notes in these sections are non-normative. Everything else in this specification is normative.
 
 The key words MAY, MUST, MUST NOT, OPTIONAL, RECOMMENDED, REQUIRED, SHOULD and SHOULD NOT in this document are to be interpreted as described in \[[__BCP 14__](https://www.rfc-editor.org/info/bcp14)\],  \[[__RFC2119__](https://www.w3.org/TR/did-1.0/#bib-rfc2119)\], \[[__RFC8174__](https://www.w3.org/TR/did-1.0/#bib-rfc8174)\] when, and only when, they appear in all capitals, as shown here.
 
-## NORMATIVE REFERENCES
+## 2. NORMATIVE REFERENCES
 >This section is normative
 
 The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies. 
@@ -72,7 +72,7 @@ The following documents are referred to in the text in such a way that some or a
 
 **\[ISO 24333:2009\]**, Cereals and cereal products — Sampling
 
-## TERMS & DEFINITIONS
+## 3. TERMS & DEFINITIONS
 
 For the purposes of this document, the following terms and definitions apply.   
 ISO and IEC maintain terminology databases for use in standardization at the following addresses: 
@@ -86,8 +86,8 @@ rough rice
 rice retaining its husk after threshing  
 *\[SOURCE: ISO 7301:2021, 3.1\]*
 
-## MAIN CONTENT
-### General, organoleptic and health characteristics
+## 4. MAIN CONTENT
+### 4.1 General, organoleptic and health characteristics
 
 Kernels of rice, whether parboiled, husked or milled, and whether whole or broken, SHALL be sound, clean and free from foreign odours which indicate deterioration.
 
@@ -95,8 +95,8 @@ NOTE National regulations can apply to maximum limits of levels of additives and
 
 The presence of living insects which are visible to the naked eye is not permitted. This should be determined before separating the bulk sample into test samples.
 
-###   Physical and chemical characteristics
-#### The mass fraction of moisture
+### 4.2 Physical and chemical characteristics
+#### 4.2.1 The mass fraction of moisture
 
 The mass fraction of extraneous matter and defective kernels in husked and milled rice, whether or not parboiled, determined in accordance with Annex A, shall not be greater than the values specified in Table 1.
 
