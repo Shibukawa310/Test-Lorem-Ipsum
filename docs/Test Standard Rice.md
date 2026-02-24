@@ -1,6 +1,7 @@
 # Cereals and pulses — Specification and test methods
 
 ## FOREWORD
+>This section is non-normative
 
 ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization. 
 
@@ -24,7 +25,9 @@ A list of all parts in the ISO 17301 series can be found on the ISO website.
 
 Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at www.iso.org/members.html.
 
+
 ## INTRODUCTION
+>This section is non normative
 
 This document was developed in response to worldwide demand for minimum specifications for rice traded internationally, since most commercial bulks of grain, which have not been screened or aspirated, contain a proportion of other grains, weed seeds, chaff, straw, stones, sand, etc. The vegetable materials can have physical and biological properties which differ from those of the main constituent and can therefore affect the storage behaviour.
 
@@ -32,19 +35,22 @@ Rice is a permanent host to a considerable microflora; most of these microorgani
 
 Storage losses have been estimated as being an average of 5 %, and as much as 30 %, especially in regions with climates favourable to the rapid development of agents of deterioration, such as tropical climates. The magnitude of these figures highlights the need to promote a rapid improvement in techniques of conservation worldwide.
 
-## SCOPE
 
+## SCOPE
 ### General Scope
+>This section is normative
 
 This document specifies minimum requirements and test methods for rice (Oryza sativa L.). It is applicable to husked rice, husked parboiled rice, milled rice and milled parboiled rice, suitable for human consumption, directly or after reconditioning. It is not applicable to cooked rice product.
 
 ### Conformance and Notations
+>This section is normative
 
 If sections are marked as non-normative, all authoring guidelines, diagrams, examples, and notes in these sections are non-normative. Everything else in this specification is normative.
 
 The key words MAY, MUST, MUST NOT, OPTIONAL, RECOMMENDED, REQUIRED, SHOULD and SHOULD NOT in this document are to be interpreted as described in \[[__BCP 14__](https://www.rfc-editor.org/info/bcp14)\],  \[[__RFC2119__](https://www.w3.org/TR/did-1.0/#bib-rfc2119)\], \[[__RFC8174__](https://www.w3.org/TR/did-1.0/#bib-rfc8174)\] when, and only when, they appear in all capitals, as shown here.
 
 ## NORMATIVE REFERENCES
+>This section is normative
 
 The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies. 
 
@@ -81,7 +87,6 @@ rice retaining its husk after threshing
 *\[SOURCE: ISO 7301:2021, 3.1\]*
 
 ## MAIN CONTENT
-
 ### General, organoleptic and health characteristics
 
 Kernels of rice, whether parboiled, husked or milled, and whether whole or broken, SHALL be sound, clean and free from foreign odours which indicate deterioration.
@@ -90,11 +95,11 @@ NOTE National regulations can apply to maximum limits of levels of additives and
 
 The presence of living insects which are visible to the naked eye is not permitted. This should be determined before separating the bulk sample into test samples.
 
-###   
-Physical and chemical characteristics
-
+###   Physical and chemical characteristics
 #### The mass fraction of moisture
 
 The mass fraction of extraneous matter and defective kernels in husked and milled rice, whether or not parboiled, determined in accordance with Annex A, shall not be greater than the values specified in Table 1.
 
-![Table 1: Maximum permissible mass fraction of defects](.attachments.56417/image.png)
+[Table 1: Maximum permissible mass fraction of defects]
+
+![alt text](image.png)
