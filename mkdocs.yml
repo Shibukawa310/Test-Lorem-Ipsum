@@ -1,9 +1,12 @@
+#Design de la page de librairie de Standard. Utilsiation de MkDocs (Générateur de site statique sur Github). 
+#Set-up existant, le fichier est un gestionnaire de configuration
+
 site_name: Librairie des Standards
 site_description: Portail officiel des procédures
 site_url: https://shibukawa310.github.io/Test-Lorem-Ipsum/
 
 theme:
-  name: material
+  name: material #Design de la page statique et adaptation à l'utlisation sur mobile
   language: fr # Pour avoir les boutons "Précédent/Suivant" et la recherche en français
   palette:
     primary: indigo # Vous pouvez choisir 'blue', 'red', 'teal', etc.
@@ -14,7 +17,7 @@ theme:
     - search.suggest
     - search.highlight
 
-markdown_extensions:
+markdown_extensions: #Librairie pour les menus déroulants où les textes dynamique (Message d'erreur)
   - admonition
   - pymdownx.details
   - attr_list
