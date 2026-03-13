@@ -7,6 +7,7 @@ site_url: https://shibukawa310.github.io/Test-Lorem-Ipsum/
 
 theme:
   name: material #Design de la page statique et adaptation à l'utlisation sur mobile
+  custom_dir: overrides  # Dit à MkDocs de regarder ici pour les pages sur-mesure
   language: fr # Pour avoir les boutons "Précédent/Suivant" et la recherche en français
   palette:
     primary: indigo # Vous pouvez choisir 'blue', 'red', 'teal', etc.
