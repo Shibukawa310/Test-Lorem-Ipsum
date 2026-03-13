@@ -1,0 +1,38 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  
+  <style>
+    .md-hero {
+      background-color: var(--md-primary-color);
+      color: var(--md-primary-bg-color);
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    .md-hero h1 {
+      color: white;
+      font-weight: 700;
+      margin-bottom: 1rem;
+    }
+    .md-button--hero {
+      background-color: white;
+      color: var(--md-primary-color);
+      font-weight: bold;
+      border-radius: 4px;
+      padding: 10px 20px;
+    }
+  </style>
+
+  <div class="md-hero" data-md-component="hero">
+    <div class="md-hero__inner md-grid">
+      <h1>Portail des Standards DECADE-X</h1>
+      <p>La source de vérité pour l'interopérabilité des Data Spaces.</p>
+      <a href="standards/" class="md-button md-button--hero">Explorer les Standards</a>
+    </div>
+  </div>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+{% endblock %}
