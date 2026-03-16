@@ -1,20 +1,33 @@
-#Utilisation du service Github Action. Automatisation d'une action répétitive.
+name: Deploy with Mike (Versioning)
 
-name: Deploy-Site
 on:
-  push:      
-    branches:   #Déclencheur de l'action après chaque modif sur la branche principale
+  push:
+    branches:
       - main
-  workflow_dispatch:  # C'est le bouton manuel
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
         with:
-          python-version: 3.x     #Language Mk Doc en python
-      - run: pip install mkdocs-material     #Libraire de Python
-      - run: mkdocs gh-deploy --force     #Conversion .md en html
+          fetch-depth: 0 # Important pour Mike : il a besoin de tout l'historique
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material mike
+
+      - name: Deploy Version
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          # On déploie la version actuelle sous le nom "1.0" et on la définit par défaut
+          mike deploy --push --update-aliases 1.0 latest
+          mike set-default --push latest
