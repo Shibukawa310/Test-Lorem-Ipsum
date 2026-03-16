@@ -22,8 +22,9 @@ markdown_extensions: #Librairie pour les menus déroulants où les textes dynami
   - pymdownx.details
   - attr_list
   - md_in_html
-  - pymdownx.snippets
-    base_path: "includes"
+  - pymdownx.snippets:
+      base_path: ["includes"]  # Vérifiez bien ces 2 espaces de décalage !
+  - abbreviations
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
