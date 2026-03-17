@@ -18,9 +18,9 @@ theme:
     - navigation.tracking    # Met à jour l'URL quand on défile
     - navigation.expand      # Optionnel : ouvre les menus par défaut
 
-extra:
-  version:
-    method: mike             # <--- Indispensable pour que le menu Mike apparaisse
+#extra:
+  #version:
+    #method: mike             # <--- Indispensable pour que le menu Mike apparaisse
 
 plugins:
   - search
