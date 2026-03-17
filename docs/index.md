@@ -1,19 +1,42 @@
-<div align="center">
-  <img src="https://placehold.co/200x100?text=LOGO+ENTREPRISE" alt="Logo de l'entreprise" width="250"/>
+---
+title: Accueil
+hide:
+  - navigation
+  - toc
+---
+
+<div align="center" style="margin-top: 50px;">
+  <img src="<img width="176" height="44" alt="image" src="https://github.com/user-attachments/assets/dfdcb977-1288-4431-a863-7dd52f392771" />
+<img width="176" height="44" alt="image" src="https://github.com/user-attachments/assets/dfdcb977-1288-4431-a863-7dd52f392771" />
+" width="300" alt="DECADE-X Logo">
   
-  <h1>Standard Library</h1>
-  <p><em>A unique way of working is waiting for you</em></p>
+  <h1 style="font-size: 2em; margin: 20px 0;">Search Engine</h1>
+  <div class="fake-search-bar">🔍 Search for a standard, a keyword...</div>
+
+  <div class="tags-container">
+    <span class="tag tag-api">#API</span>
+    <span class="tag tag-security">#Security</span>
+    <span class="tag tag-data">#Data</span>
+    <span class="tag tag-quality">#Quality</span>
+    <span class="tag tag-business">#Business</span>
+    <span class="tag tag-semantic">#Semantic</span>
+  </div>
 </div>
 
 ---
 
-### 🏷️ Quick access by keyword
-**[ 🔴 Security ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🔵 API ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟢 Quality ]** &nbsp;&nbsp;|&nbsp;&nbsp; **[ 🟠 Process ]**
+<div class="grid" markdown>
 
----
+::: col
+### 🆕 Our Latest Standard
+* **30.09.26** Domain X - [Standard X.X](url)
+* **10.09.26** Domain X - [Standard X.X](url)
+:::
 
-### 📰 What's new?
+::: col
+### ⏳ Coming Soon
+* **18.10.26** Domain X - Standard X.X
+* **24.11.26** Domain X - Standard X.X
+:::
 
-| 🆕 Last release  | ⏳ Coming Soon  |
-| :--- | :--- |
-| - **[API definition](../Standards_Process/ API definition.md)** <br> - **[Non conformity](../Standards_Securite/Non conformity.md)** <br> - **[Process ALpha](../Standards_Process/New Orga.md)** | - Data exchange baseline <br> - Use Case Definition X <br> - Legale & Compliance Framework  |
+</div>
