@@ -6,9 +6,7 @@ hide:
 ---
 
 <div align="center" style="margin-top: 50px;">
-  <img src="<img width="176" height="44" alt="image" src="https://github.com/user-attachments/assets/dfdcb977-1288-4431-a863-7dd52f392771" />
-<img width="176" height="44" alt="image" src="https://github.com/user-attachments/assets/dfdcb977-1288-4431-a863-7dd52f392771" />
-" width="300" alt="DECADE-X Logo">
+  <img src="URL logo" width="300" alt="DECADE-X Logo">
   
   <h1 style="font-size: 2em; margin: 20px 0;">Search Engine</h1>
   <div class="fake-search-bar">🔍 Search for a standard, a keyword...</div>
